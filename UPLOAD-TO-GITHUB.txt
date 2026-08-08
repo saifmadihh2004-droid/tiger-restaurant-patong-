@@ -1,0 +1,9 @@
+Upload these exact files to the ROOT of your GitHub repository:
+
+index.html
+style.css
+script.js
+images/logo.jpg
+
+Do not rename the files.
+GitHub Pages should use the main branch and / (root).
